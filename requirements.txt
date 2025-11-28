@@ -1,0 +1,30 @@
+# Core Dependencies
+networkx==3.2.1
+faiss-cpu>=1.8.0
+sentence-transformers>=2.2.2
+transformers>=4.36.0
+
+# Data Processing
+pandas==2.1.4
+numpy>=1.26.0
+PyMuPDF==1.23.8
+jsonlines==4.0.0
+
+# LLM APIs
+google-generativeai>=0.3.0
+groq==0.4.2
+openai>=1.109.1
+
+# Web Framework
+streamlit==1.29.0
+streamlit-agraph==0.0.45
+gradio>=4.0.0
+
+# Visualization
+matplotlib==3.8.2
+plotly==5.18.0
+
+# Utilities
+python-dotenv==1.0.0
+tqdm>=4.66.3
+regex==2023.12.25

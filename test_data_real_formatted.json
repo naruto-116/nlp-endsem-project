@@ -1,0 +1,764 @@
+{
+  "queries": [
+    {
+      "query_id": "Q001",
+      "query": "What was the judgment in M/S GIMPEX PRIVATE v. MANOJ GOEL?",
+      "relevant_docs": [
+        "SC_a6896516930a"
+      ],
+      "expected_citations": [
+        "SC_a6896516930a",
+        "M/S GIMPEX PRIVATE LIMITED v. MANOJ GOEL"
+      ],
+      "reference_answer": "This refers to the case M/S GIMPEX PRIVATE LIMITED v. MANOJ GOEL, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q002",
+      "query": "What is the interpretation of Section 149?",
+      "relevant_docs": [
+        "SC_a6896516930a"
+      ],
+      "expected_citations": [
+        "SC_a6896516930a",
+        "M/S GIMPEX PRIVATE LIMITED v. MANOJ GOEL",
+        "Section 149"
+      ],
+      "reference_answer": "Section 149 was interpreted in M/S GIMPEX PRIVATE LIMITED v. MANOJ GOEL."
+    },
+    {
+      "query_id": "Q003",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_a6896516930a"
+      ],
+      "expected_citations": [
+        "SC_a6896516930a",
+        "M/S GIMPEX PRIVATE LIMITED v. MANOJ GOEL"
+      ],
+      "reference_answer": "M/S GIMPEX PRIVATE LIMITED v. MANOJ GOEL was decided in 2021."
+    },
+    {
+      "query_id": "Q004",
+      "query": "Which cases were heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MRS. JUSTICE B.V. NAGARATHNA?",
+      "relevant_docs": [
+        "SC_a6896516930a"
+      ],
+      "expected_citations": [
+        "SC_a6896516930a",
+        "M/S GIMPEX PRIVATE LIMITED v. MANOJ GOEL"
+      ],
+      "reference_answer": "M/S GIMPEX PRIVATE LIMITED v. MANOJ GOEL was heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MRS. JUSTICE B.V. NAGARATHNA."
+    },
+    {
+      "query_id": "Q005",
+      "query": "What was the judgment in PRABHAGIYA VAN ADHIKARI v. ARUN KUMAR BHARDWAJ?",
+      "relevant_docs": [
+        "SC_5e25583d86e5"
+      ],
+      "expected_citations": [
+        "SC_5e25583d86e5",
+        "PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS."
+      ],
+      "reference_answer": "This refers to the case PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS., decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q006",
+      "query": "Which cases discuss Article 262 of the Constitution?",
+      "relevant_docs": [
+        "SC_5e25583d86e5"
+      ],
+      "expected_citations": [
+        "SC_5e25583d86e5",
+        "PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS.",
+        "Article 262"
+      ],
+      "reference_answer": "Article 262 was discussed in PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS.."
+    },
+    {
+      "query_id": "Q007",
+      "query": "What is the interpretation of Section 5?",
+      "relevant_docs": [
+        "SC_5e25583d86e5"
+      ],
+      "expected_citations": [
+        "SC_5e25583d86e5",
+        "PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS.",
+        "Section 5"
+      ],
+      "reference_answer": "Section 5 was interpreted in PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS.."
+    },
+    {
+      "query_id": "Q008",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_5e25583d86e5"
+      ],
+      "expected_citations": [
+        "SC_5e25583d86e5",
+        "PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS."
+      ],
+      "reference_answer": "PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS. was decided in 2021."
+    },
+    {
+      "query_id": "Q009",
+      "query": "Which cases were heard by HON'BLE MR. JUSTICE HEMANT GUPTA, HON'BLE MR. JUSTICE V. RAMASUBRAMANIAN?",
+      "relevant_docs": [
+        "SC_5e25583d86e5"
+      ],
+      "expected_citations": [
+        "SC_5e25583d86e5",
+        "PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS."
+      ],
+      "reference_answer": "PRABHAGIYA VAN ADHIKARI AWADH VAN PPABHAG v. ARUN KUMAR BHARDWAJ (DEAD) THR. LRS. was heard by HON'BLE MR. JUSTICE HEMANT GUPTA, HON'BLE MR. JUSTICE V. RAMASUBRAMANIAN."
+    },
+    {
+      "query_id": "Q010",
+      "query": "What was the judgment in BHAGCHANDRA v. THE STATE OF?",
+      "relevant_docs": [
+        "SC_efa0de4cbdae"
+      ],
+      "expected_citations": [
+        "SC_efa0de4cbdae",
+        "BHAGCHANDRA v. THE STATE OF MADHYA PRADESH"
+      ],
+      "reference_answer": "This refers to the case BHAGCHANDRA v. THE STATE OF MADHYA PRADESH, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q011",
+      "query": "What is the interpretation of Section 14?",
+      "relevant_docs": [
+        "SC_efa0de4cbdae"
+      ],
+      "expected_citations": [
+        "SC_efa0de4cbdae",
+        "BHAGCHANDRA v. THE STATE OF MADHYA PRADESH",
+        "Section 14"
+      ],
+      "reference_answer": "Section 14 was interpreted in BHAGCHANDRA v. THE STATE OF MADHYA PRADESH."
+    },
+    {
+      "query_id": "Q012",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_efa0de4cbdae"
+      ],
+      "expected_citations": [
+        "SC_efa0de4cbdae",
+        "BHAGCHANDRA v. THE STATE OF MADHYA PRADESH"
+      ],
+      "reference_answer": "BHAGCHANDRA v. THE STATE OF MADHYA PRADESH was decided in 2021."
+    },
+    {
+      "query_id": "Q013",
+      "query": "Which cases were heard by HON'BLE MR. JUSTICE L. NAGESWARA RAO, HON'BLE MR. JUSTICE B.R. GAVAI, HON'BLE MRS. JUSTICE B.V. NAGARATHNA?",
+      "relevant_docs": [
+        "SC_efa0de4cbdae"
+      ],
+      "expected_citations": [
+        "SC_efa0de4cbdae",
+        "BHAGCHANDRA v. THE STATE OF MADHYA PRADESH"
+      ],
+      "reference_answer": "BHAGCHANDRA v. THE STATE OF MADHYA PRADESH was heard by HON'BLE MR. JUSTICE L. NAGESWARA RAO, HON'BLE MR. JUSTICE B.R. GAVAI, HON'BLE MRS. JUSTICE B.V. NAGARATHNA."
+    },
+    {
+      "query_id": "Q014",
+      "query": "What was the judgment in HDFC ERGO GENERAL v. MUKESH KUMAR?",
+      "relevant_docs": [
+        "SC_ce34d9260a45"
+      ],
+      "expected_citations": [
+        "SC_ce34d9260a45",
+        "HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR"
+      ],
+      "reference_answer": "This refers to the case HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q015",
+      "query": "Which cases discuss Article 133 of the Constitution?",
+      "relevant_docs": [
+        "SC_ce34d9260a45"
+      ],
+      "expected_citations": [
+        "SC_ce34d9260a45",
+        "HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR",
+        "Article 133"
+      ],
+      "reference_answer": "Article 133 was discussed in HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR."
+    },
+    {
+      "query_id": "Q016",
+      "query": "What is the interpretation of Section 80?",
+      "relevant_docs": [
+        "SC_ce34d9260a45"
+      ],
+      "expected_citations": [
+        "SC_ce34d9260a45",
+        "HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR",
+        "Section 80"
+      ],
+      "reference_answer": "Section 80 was interpreted in HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR."
+    },
+    {
+      "query_id": "Q017",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_ce34d9260a45"
+      ],
+      "expected_citations": [
+        "SC_ce34d9260a45",
+        "HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR"
+      ],
+      "reference_answer": "HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR was decided in 2021."
+    },
+    {
+      "query_id": "Q018",
+      "query": "Which cases were heard by HON'BLE MR. JUSTICE SANJAY KISHAN KAUL, HON'BLE MR. JUSTICE HRISHIKESH ROY?",
+      "relevant_docs": [
+        "SC_ce34d9260a45"
+      ],
+      "expected_citations": [
+        "SC_ce34d9260a45",
+        "HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR"
+      ],
+      "reference_answer": "HDFC ERGO GENERAL INSURANCE CO. LTD. v. MUKESH KUMAR was heard by HON'BLE MR. JUSTICE SANJAY KISHAN KAUL, HON'BLE MR. JUSTICE HRISHIKESH ROY."
+    },
+    {
+      "query_id": "Q019",
+      "query": "What was the judgment in NORTH DELHI MUNICIPAL v. RAM NARESH SHARMA?",
+      "relevant_docs": [
+        "SC_3edeeceeca61"
+      ],
+      "expected_citations": [
+        "SC_3edeeceeca61",
+        "NORTH DELHI MUNICIPAL CORPORATION v. RAM NARESH SHARMA"
+      ],
+      "reference_answer": "This refers to the case NORTH DELHI MUNICIPAL CORPORATION v. RAM NARESH SHARMA, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q020",
+      "query": "What is the interpretation of Section 14?",
+      "relevant_docs": [
+        "SC_3edeeceeca61"
+      ],
+      "expected_citations": [
+        "SC_3edeeceeca61",
+        "NORTH DELHI MUNICIPAL CORPORATION v. RAM NARESH SHARMA",
+        "Section 14"
+      ],
+      "reference_answer": "Section 14 was interpreted in NORTH DELHI MUNICIPAL CORPORATION v. RAM NARESH SHARMA."
+    },
+    {
+      "query_id": "Q021",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_3edeeceeca61"
+      ],
+      "expected_citations": [
+        "SC_3edeeceeca61",
+        "NORTH DELHI MUNICIPAL CORPORATION v. RAM NARESH SHARMA"
+      ],
+      "reference_answer": "NORTH DELHI MUNICIPAL CORPORATION v. RAM NARESH SHARMA was decided in 2021."
+    },
+    {
+      "query_id": "Q022",
+      "query": "Which cases were heard by HON'BLE MR. JUSTICE SANJAY KISHAN KAUL, HON'BLE MR. JUSTICE HRISHIKESH ROY?",
+      "relevant_docs": [
+        "SC_3edeeceeca61"
+      ],
+      "expected_citations": [
+        "SC_3edeeceeca61",
+        "NORTH DELHI MUNICIPAL CORPORATION v. RAM NARESH SHARMA"
+      ],
+      "reference_answer": "NORTH DELHI MUNICIPAL CORPORATION v. RAM NARESH SHARMA was heard by HON'BLE MR. JUSTICE SANJAY KISHAN KAUL, HON'BLE MR. JUSTICE HRISHIKESH ROY."
+    },
+    {
+      "query_id": "Q023",
+      "query": "What was the judgment in SEPCO ELECTRIC POWER v. POWER MECH PROJECTS?",
+      "relevant_docs": [
+        "SC_4033aea54a8b"
+      ],
+      "expected_citations": [
+        "SC_4033aea54a8b",
+        "SEPCO ELECTRIC POWER CONSTRUCTION CORPORATION v. POWER MECH PROJECTS LTD."
+      ],
+      "reference_answer": "This refers to the case SEPCO ELECTRIC POWER CONSTRUCTION CORPORATION v. POWER MECH PROJECTS LTD., decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q024",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_4033aea54a8b"
+      ],
+      "expected_citations": [
+        "SC_4033aea54a8b",
+        "SEPCO ELECTRIC POWER CONSTRUCTION CORPORATION v. POWER MECH PROJECTS LTD."
+      ],
+      "reference_answer": "SEPCO ELECTRIC POWER CONSTRUCTION CORPORATION v. POWER MECH PROJECTS LTD. was decided in 2021."
+    },
+    {
+      "query_id": "Q025",
+      "query": "What was the judgment in SATYA PRAKASH DWIVEDI v. MUNNA ALIES CHANDRABHAN?",
+      "relevant_docs": [
+        "SC_991b34886fcc"
+      ],
+      "expected_citations": [
+        "SC_991b34886fcc",
+        "SATYA PRAKASH DWIVEDI v. MUNNA ALIES CHANDRABHAN YADAV"
+      ],
+      "reference_answer": "This refers to the case SATYA PRAKASH DWIVEDI v. MUNNA ALIES CHANDRABHAN YADAV, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q026",
+      "query": "Which cases discuss Article 14 of the Constitution?",
+      "relevant_docs": [
+        "SC_991b34886fcc"
+      ],
+      "expected_citations": [
+        "SC_991b34886fcc",
+        "SATYA PRAKASH DWIVEDI v. MUNNA ALIES CHANDRABHAN YADAV",
+        "Article 14"
+      ],
+      "reference_answer": "Article 14 was discussed in SATYA PRAKASH DWIVEDI v. MUNNA ALIES CHANDRABHAN YADAV."
+    },
+    {
+      "query_id": "Q027",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_991b34886fcc"
+      ],
+      "expected_citations": [
+        "SC_991b34886fcc",
+        "SATYA PRAKASH DWIVEDI v. MUNNA ALIES CHANDRABHAN YADAV"
+      ],
+      "reference_answer": "SATYA PRAKASH DWIVEDI v. MUNNA ALIES CHANDRABHAN YADAV was decided in 2021."
+    },
+    {
+      "query_id": "Q028",
+      "query": "Which cases were heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MRS. JUSTICE B.V. NAGARATHNA?",
+      "relevant_docs": [
+        "SC_991b34886fcc"
+      ],
+      "expected_citations": [
+        "SC_991b34886fcc",
+        "SATYA PRAKASH DWIVEDI v. MUNNA ALIES CHANDRABHAN YADAV"
+      ],
+      "reference_answer": "SATYA PRAKASH DWIVEDI v. MUNNA ALIES CHANDRABHAN YADAV was heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MRS. JUSTICE B.V. NAGARATHNA."
+    },
+    {
+      "query_id": "Q029",
+      "query": "What was the judgment in NATHU SINGH v. THE STATE OF?",
+      "relevant_docs": [
+        "SC_2305f1f75fd7"
+      ],
+      "expected_citations": [
+        "SC_2305f1f75fd7",
+        "NATHU SINGH v. THE STATE OF UTTAR PRADESH"
+      ],
+      "reference_answer": "This refers to the case NATHU SINGH v. THE STATE OF UTTAR PRADESH, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q030",
+      "query": "What is the interpretation of Section 58(2)?",
+      "relevant_docs": [
+        "SC_2305f1f75fd7"
+      ],
+      "expected_citations": [
+        "SC_2305f1f75fd7",
+        "NATHU SINGH v. THE STATE OF UTTAR PRADESH",
+        "Section 58(2)"
+      ],
+      "reference_answer": "Section 58(2) was interpreted in NATHU SINGH v. THE STATE OF UTTAR PRADESH."
+    },
+    {
+      "query_id": "Q031",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_2305f1f75fd7"
+      ],
+      "expected_citations": [
+        "SC_2305f1f75fd7",
+        "NATHU SINGH v. THE STATE OF UTTAR PRADESH"
+      ],
+      "reference_answer": "NATHU SINGH v. THE STATE OF UTTAR PRADESH was decided in 2021."
+    },
+    {
+      "query_id": "Q032",
+      "query": "Which cases were heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MR. JUSTICE SURYA KANT, HON'BLE MR. JUSTICE ANIRUDDHA BOSE?",
+      "relevant_docs": [
+        "SC_2305f1f75fd7"
+      ],
+      "expected_citations": [
+        "SC_2305f1f75fd7",
+        "NATHU SINGH v. THE STATE OF UTTAR PRADESH"
+      ],
+      "reference_answer": "NATHU SINGH v. THE STATE OF UTTAR PRADESH was heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MR. JUSTICE SURYA KANT, HON'BLE MR. JUSTICE ANIRUDDHA BOSE."
+    },
+    {
+      "query_id": "Q033",
+      "query": "What was the judgment in SRI MARTHANDA VARMA v. THE STATE OF?",
+      "relevant_docs": [
+        "SC_67c77bd52818"
+      ],
+      "expected_citations": [
+        "SC_67c77bd52818",
+        "SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY"
+      ],
+      "reference_answer": "This refers to the case SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q034",
+      "query": "Which cases discuss Article 143(1) of the Constitution?",
+      "relevant_docs": [
+        "SC_67c77bd52818"
+      ],
+      "expected_citations": [
+        "SC_67c77bd52818",
+        "SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY",
+        "Article 143(1)"
+      ],
+      "reference_answer": "Article 143(1) was discussed in SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY."
+    },
+    {
+      "query_id": "Q035",
+      "query": "What is the interpretation of Section 4?",
+      "relevant_docs": [
+        "SC_67c77bd52818"
+      ],
+      "expected_citations": [
+        "SC_67c77bd52818",
+        "SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY",
+        "Section 4"
+      ],
+      "reference_answer": "Section 4 was interpreted in SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY."
+    },
+    {
+      "query_id": "Q036",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_67c77bd52818"
+      ],
+      "expected_citations": [
+        "SC_67c77bd52818",
+        "SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY"
+      ],
+      "reference_answer": "SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY was decided in 2021."
+    },
+    {
+      "query_id": "Q037",
+      "query": "Which cases were heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MR. JUSTICE S. RAVINDRA BHAT, HON'BLE MS. JUSTICE BELA M. TRIVEDI?",
+      "relevant_docs": [
+        "SC_67c77bd52818"
+      ],
+      "expected_citations": [
+        "SC_67c77bd52818",
+        "SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY"
+      ],
+      "reference_answer": "SRI MARTHANDA VARMA (D)  TH. LR. . v. THE STATE OF KERALA STATE OF KERALA . CHIEF SECRETARY was heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MR. JUSTICE S. RAVINDRA BHAT, HON'BLE MS. JUSTICE BELA M. TRIVEDI."
+    },
+    {
+      "query_id": "Q038",
+      "query": "What was the judgment in UNION OF INDIA v. MD. NAWAZ KHAN?",
+      "relevant_docs": [
+        "SC_f21e3a5afdf0"
+      ],
+      "expected_citations": [
+        "SC_f21e3a5afdf0",
+        "UNION OF INDIA THROUGH NCB v. MD. NAWAZ KHAN"
+      ],
+      "reference_answer": "This refers to the case UNION OF INDIA THROUGH NCB v. MD. NAWAZ KHAN, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q039",
+      "query": "What is the interpretation of Section 35?",
+      "relevant_docs": [
+        "SC_f21e3a5afdf0"
+      ],
+      "expected_citations": [
+        "SC_f21e3a5afdf0",
+        "UNION OF INDIA THROUGH NCB v. MD. NAWAZ KHAN",
+        "Section 35"
+      ],
+      "reference_answer": "Section 35 was interpreted in UNION OF INDIA THROUGH NCB v. MD. NAWAZ KHAN."
+    },
+    {
+      "query_id": "Q040",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_f21e3a5afdf0"
+      ],
+      "expected_citations": [
+        "SC_f21e3a5afdf0",
+        "UNION OF INDIA THROUGH NCB v. MD. NAWAZ KHAN"
+      ],
+      "reference_answer": "UNION OF INDIA THROUGH NCB v. MD. NAWAZ KHAN was decided in 2021."
+    },
+    {
+      "query_id": "Q041",
+      "query": "Which cases were heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MR. JUSTICE VIKRAM NATH, HON'BLE MRS. JUSTICE B.V. NAGARATHNA?",
+      "relevant_docs": [
+        "SC_f21e3a5afdf0"
+      ],
+      "expected_citations": [
+        "SC_f21e3a5afdf0",
+        "UNION OF INDIA THROUGH NCB v. MD. NAWAZ KHAN"
+      ],
+      "reference_answer": "UNION OF INDIA THROUGH NCB v. MD. NAWAZ KHAN was heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MR. JUSTICE VIKRAM NATH, HON'BLE MRS. JUSTICE B.V. NAGARATHNA."
+    },
+    {
+      "query_id": "Q042",
+      "query": "What was the judgment in RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY?",
+      "relevant_docs": [
+        "SC_2b800e909ab6"
+      ],
+      "expected_citations": [
+        "SC_2b800e909ab6",
+        "RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD"
+      ],
+      "reference_answer": "This refers to the case RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q043",
+      "query": "Which cases discuss Article 23(5) of the Constitution?",
+      "relevant_docs": [
+        "SC_2b800e909ab6"
+      ],
+      "expected_citations": [
+        "SC_2b800e909ab6",
+        "RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD",
+        "Article 23(5)"
+      ],
+      "reference_answer": "Article 23(5) was discussed in RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD."
+    },
+    {
+      "query_id": "Q044",
+      "query": "What is the interpretation of Section 3(1)?",
+      "relevant_docs": [
+        "SC_2b800e909ab6"
+      ],
+      "expected_citations": [
+        "SC_2b800e909ab6",
+        "RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD",
+        "Section 3(1)"
+      ],
+      "reference_answer": "Section 3(1) was interpreted in RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD."
+    },
+    {
+      "query_id": "Q045",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_2b800e909ab6"
+      ],
+      "expected_citations": [
+        "SC_2b800e909ab6",
+        "RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD"
+      ],
+      "reference_answer": "RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD was decided in 2021."
+    },
+    {
+      "query_id": "Q046",
+      "query": "Which cases were heard by HON'BLE MR. JUSTICE M.R. SHAH, HON'BLE MRS. JUSTICE B.V. NAGARATHNA?",
+      "relevant_docs": [
+        "SC_2b800e909ab6"
+      ],
+      "expected_citations": [
+        "SC_2b800e909ab6",
+        "RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD"
+      ],
+      "reference_answer": "RAJESH PRAVINCHANDRA RAJYAGURU v. GUJARAT WATER SUPPLY AND SEWERAGE BOARD was heard by HON'BLE MR. JUSTICE M.R. SHAH, HON'BLE MRS. JUSTICE B.V. NAGARATHNA."
+    },
+    {
+      "query_id": "Q047",
+      "query": "What was the judgment in AMWAY INDIA ENTERPRISES v. RAVINDRANATH RAO SINDHIA?",
+      "relevant_docs": [
+        "SC_9ac99f74de99"
+      ],
+      "expected_citations": [
+        "SC_9ac99f74de99",
+        "AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA"
+      ],
+      "reference_answer": "This refers to the case AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q048",
+      "query": "Which cases discuss Article 229 of the Constitution?",
+      "relevant_docs": [
+        "SC_9ac99f74de99"
+      ],
+      "expected_citations": [
+        "SC_9ac99f74de99",
+        "AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA",
+        "Article 229"
+      ],
+      "reference_answer": "Article 229 was discussed in AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA."
+    },
+    {
+      "query_id": "Q049",
+      "query": "What is the interpretation of Section 242(4)?",
+      "relevant_docs": [
+        "SC_9ac99f74de99"
+      ],
+      "expected_citations": [
+        "SC_9ac99f74de99",
+        "AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA",
+        "Section 242(4)"
+      ],
+      "reference_answer": "Section 242(4) was interpreted in AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA."
+    },
+    {
+      "query_id": "Q050",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_9ac99f74de99"
+      ],
+      "expected_citations": [
+        "SC_9ac99f74de99",
+        "AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA"
+      ],
+      "reference_answer": "AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA was decided in 2021."
+    },
+    {
+      "query_id": "Q051",
+      "query": "Which cases were heard by HON'BLE MR. JUSTICE ROHINTON FALI NARIMAN, HON'BLE MR. JUSTICE HRISHIKESH ROY?",
+      "relevant_docs": [
+        "SC_9ac99f74de99"
+      ],
+      "expected_citations": [
+        "SC_9ac99f74de99",
+        "AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA"
+      ],
+      "reference_answer": "AMWAY INDIA ENTERPRISES PVT. LTD. v. RAVINDRANATH RAO SINDHIA was heard by HON'BLE MR. JUSTICE ROHINTON FALI NARIMAN, HON'BLE MR. JUSTICE HRISHIKESH ROY."
+    },
+    {
+      "query_id": "Q052",
+      "query": "What was the judgment in K.S. RANGANATHA v. VITTAL SETTY?",
+      "relevant_docs": [
+        "SC_7437fc4a438b"
+      ],
+      "expected_citations": [
+        "SC_7437fc4a438b",
+        "K.S. RANGANATHA v. VITTAL SETTY"
+      ],
+      "reference_answer": "This refers to the case K.S. RANGANATHA v. VITTAL SETTY, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q053",
+      "query": "Which cases discuss Article 32 of the Constitution?",
+      "relevant_docs": [
+        "SC_7437fc4a438b"
+      ],
+      "expected_citations": [
+        "SC_7437fc4a438b",
+        "K.S. RANGANATHA v. VITTAL SETTY",
+        "Article 32"
+      ],
+      "reference_answer": "Article 32 was discussed in K.S. RANGANATHA v. VITTAL SETTY."
+    },
+    {
+      "query_id": "Q054",
+      "query": "What is the interpretation of Section 45?",
+      "relevant_docs": [
+        "SC_7437fc4a438b"
+      ],
+      "expected_citations": [
+        "SC_7437fc4a438b",
+        "K.S. RANGANATHA v. VITTAL SETTY",
+        "Section 45"
+      ],
+      "reference_answer": "Section 45 was interpreted in K.S. RANGANATHA v. VITTAL SETTY."
+    },
+    {
+      "query_id": "Q055",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_7437fc4a438b"
+      ],
+      "expected_citations": [
+        "SC_7437fc4a438b",
+        "K.S. RANGANATHA v. VITTAL SETTY"
+      ],
+      "reference_answer": "K.S. RANGANATHA v. VITTAL SETTY was decided in 2021."
+    },
+    {
+      "query_id": "Q056",
+      "query": "Which cases were heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MR. JUSTICE A.S. BOPANNA, HON'BLE MS. JUSTICE HIMA KOHLI?",
+      "relevant_docs": [
+        "SC_7437fc4a438b"
+      ],
+      "expected_citations": [
+        "SC_7437fc4a438b",
+        "K.S. RANGANATHA v. VITTAL SETTY"
+      ],
+      "reference_answer": "K.S. RANGANATHA v. VITTAL SETTY was heard by HON'BLE THE CHIEF JUSTICE, HON'BLE MR. JUSTICE A.S. BOPANNA, HON'BLE MS. JUSTICE HIMA KOHLI."
+    },
+    {
+      "query_id": "Q057",
+      "query": "What was the judgment in HARI SHANKAR AGGARWAL v. THE STATE OF?",
+      "relevant_docs": [
+        "SC_01f141977fa6"
+      ],
+      "expected_citations": [
+        "SC_01f141977fa6",
+        "HARI SHANKAR AGGARWAL v. THE STATE OF RAJASTHAN"
+      ],
+      "reference_answer": "This refers to the case HARI SHANKAR AGGARWAL v. THE STATE OF RAJASTHAN, decided by the Supreme Court."
+    },
+    {
+      "query_id": "Q058",
+      "query": "What is the interpretation of Section 302?",
+      "relevant_docs": [
+        "SC_01f141977fa6"
+      ],
+      "expected_citations": [
+        "SC_01f141977fa6",
+        "HARI SHANKAR AGGARWAL v. THE STATE OF RAJASTHAN",
+        "Section 302"
+      ],
+      "reference_answer": "Section 302 was interpreted in HARI SHANKAR AGGARWAL v. THE STATE OF RAJASTHAN."
+    },
+    {
+      "query_id": "Q059",
+      "query": "What judgments were delivered in 2021?",
+      "relevant_docs": [
+        "SC_01f141977fa6"
+      ],
+      "expected_citations": [
+        "SC_01f141977fa6",
+        "HARI SHANKAR AGGARWAL v. THE STATE OF RAJASTHAN"
+      ],
+      "reference_answer": "HARI SHANKAR AGGARWAL v. THE STATE OF RAJASTHAN was decided in 2021."
+    },
+    {
+      "query_id": "Q060",
+      "query": "Which cases were heard by HON'BLE MR. JUSTICE ASHOK BHUSHAN, HON'BLE MR. JUSTICE S. ABDUL NAZEER, HON'BLE MR. JUSTICE HEMANT GUPTA?",
+      "relevant_docs": [
+        "SC_01f141977fa6"
+      ],
+      "expected_citations": [
+        "SC_01f141977fa6",
+        "HARI SHANKAR AGGARWAL v. THE STATE OF RAJASTHAN"
+      ],
+      "reference_answer": "HARI SHANKAR AGGARWAL v. THE STATE OF RAJASTHAN was heard by HON'BLE MR. JUSTICE ASHOK BHUSHAN, HON'BLE MR. JUSTICE S. ABDUL NAZEER, HON'BLE MR. JUSTICE HEMANT GUPTA."
+    },
+    {
+      "query_id": "Q061",
+      "query": "What are the fundamental rights under the Indian Constitution?",
+      "relevant_docs": [],
+      "expected_citations": [
+        "Article 14",
+        "Article 19",
+        "Article 21"
+      ],
+      "reference_answer": "Fundamental rights are discussed in multiple judgments."
+    },
+    {
+      "query_id": "Q062",
+      "query": "What is the doctrine of basic structure?",
+      "relevant_docs": [],
+      "expected_citations": [
+        "Kesavananda Bharati",
+        "Article 368"
+      ],
+      "reference_answer": "The basic structure doctrine was established in Kesavananda Bharati."
+    }
+  ]
+}

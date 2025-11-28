@@ -1,0 +1,28 @@
+{
+  "retrieval": {
+    "precision@5": 0.2727272727272727,
+    "precision@10": 0.3333333333333333,
+    "recall@5": 0.44740933255926085,
+    "recall@10": 0.5723211040818738,
+    "mrr": 0.5212121212121212,
+    "ndcg@10": 0.6393347855046362,
+    "hit_rate@10": 0.8484848484848485
+  },
+  "generation": {
+    "token_f1": 0.12389176839182084,
+    "rouge_l": 0.08947117846096984,
+    "exact_match": 0.0
+  },
+  "citations": {
+    "citation_precision": 0.12121212121212122,
+    "citation_recall": 0.05555555555555555,
+    "citation_f1": 0.07575757575757576,
+    "hallucination_rate": 0.5151515151515151
+  },
+  "performance": {
+    "retrieval_ms": 592.2543621063232,
+    "generation_ms": 3548.811330795288,
+    "verification_ms": 0.0,
+    "total_ms": 4141.065692901611
+  }
+}

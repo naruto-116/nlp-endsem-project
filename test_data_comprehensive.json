@@ -1,0 +1,184 @@
+{
+  "queries": [
+    {
+      "query": "What was the judgment in Sample Case 1 v. State?",
+      "relevant_docs": ["SC_1950_1"],
+      "expected_citations": ["SC_1950_1", "Sample Case 1 v. State"],
+      "reference_answer": "Sample Case 1 v. State was decided in 1950. The case involved Article 1 and Section 10, and the outcome was Allowed."
+    },
+    {
+      "query": "Tell me about cases decided in 1975",
+      "relevant_docs": ["SC_1975_26"],
+      "expected_citations": ["SC_1975_26"],
+      "reference_answer": "Sample Case 26 v. State was decided in 1975 by the Supreme Court of India."
+    },
+    {
+      "query": "Which cases reference Article 1?",
+      "relevant_docs": ["SC_1950_1", "SC_1951_2", "SC_1952_3"],
+      "expected_citations": ["SC_1950_1"],
+      "reference_answer": "Multiple cases reference Article 1, including Sample Case 1 v. State from 1950."
+    },
+    {
+      "query": "What is the legal precedent in case number SC_1960_11?",
+      "relevant_docs": ["SC_1960_11", "SC_1959_10", "SC_1961_12"],
+      "expected_citations": ["SC_1960_11"],
+      "reference_answer": "SC_1960_11 is Sample Case 11 v. State decided in 1960 by Judge 1 and Judge 2."
+    },
+    {
+      "query": "Explain the judgment in Sample Case 5",
+      "relevant_docs": ["SC_1954_5", "SC_1953_4", "SC_1955_6"],
+      "expected_citations": ["SC_1954_5"],
+      "reference_answer": "Sample Case 5 v. State was decided in 1954 with outcome Allowed."
+    },
+    {
+      "query": "What cases were decided between 1950 and 1955?",
+      "relevant_docs": ["SC_1950_1", "SC_1951_2", "SC_1952_3", "SC_1953_4", "SC_1954_5", "SC_1955_6"],
+      "expected_citations": ["SC_1950_1", "SC_1955_6"],
+      "reference_answer": "Multiple cases were decided between 1950-1955 including Sample Case 1 through Sample Case 6."
+    },
+    {
+      "query": "Find precedents involving Section 10",
+      "relevant_docs": ["SC_1950_1", "SC_1951_2", "SC_1952_3"],
+      "expected_citations": ["SC_1950_1"],
+      "reference_answer": "Cases involving Section 10 include Sample Case 1 v. State from 1950."
+    },
+    {
+      "query": "What was decided in 1980?",
+      "relevant_docs": ["SC_1980_31"],
+      "expected_citations": ["SC_1980_31"],
+      "reference_answer": "Sample Case 31 v. State was decided in 1980."
+    },
+    {
+      "query": "Show me cases from the 1990s",
+      "relevant_docs": ["SC_1990_41", "SC_1991_42", "SC_1992_43", "SC_1993_44", "SC_1994_45", "SC_1995_46", "SC_1996_47", "SC_1997_48", "SC_1998_49", "SC_1999_50"],
+      "expected_citations": ["SC_1990_41", "SC_1999_50"],
+      "reference_answer": "Cases from the 1990s include Sample Case 41 through Sample Case 50."
+    },
+    {
+      "query": "What is the legal position on case 20?",
+      "relevant_docs": ["SC_1969_20", "SC_1968_19", "SC_1970_21"],
+      "expected_citations": ["SC_1969_20"],
+      "reference_answer": "SC_1969_20 is Sample Case 20 v. State decided in 1969."
+    },
+    {
+      "query": "Find all judgments from 2000",
+      "relevant_docs": ["SC_2000_51"],
+      "expected_citations": ["SC_2000_51"],
+      "reference_answer": "Sample Case 51 v. State was decided in 2000."
+    },
+    {
+      "query": "What is Sample Case 10 about?",
+      "relevant_docs": ["SC_1959_10", "SC_1958_9", "SC_1960_11"],
+      "expected_citations": ["SC_1959_10"],
+      "reference_answer": "Sample Case 10 v. State was decided in 1959 by the Supreme Court."
+    },
+    {
+      "query": "Show me the precedent for case SC_1970_21",
+      "relevant_docs": ["SC_1970_21", "SC_1969_20", "SC_1971_22"],
+      "expected_citations": ["SC_1970_21"],
+      "reference_answer": "SC_1970_21 is Sample Case 21 v. State from 1970."
+    },
+    {
+      "query": "What cases were allowed as outcome?",
+      "relevant_docs": ["SC_1950_1", "SC_1951_2", "SC_1952_3", "SC_1953_4", "SC_1954_5"],
+      "expected_citations": ["SC_1950_1", "SC_1954_5"],
+      "reference_answer": "Multiple cases had Allowed as the outcome including Sample Case 1 and Sample Case 5."
+    },
+    {
+      "query": "Find judgments from 1985",
+      "relevant_docs": ["SC_1985_36"],
+      "expected_citations": ["SC_1985_36"],
+      "reference_answer": "Sample Case 36 v. State was decided in 1985."
+    },
+    {
+      "query": "What is the verdict in case 45?",
+      "relevant_docs": ["SC_1994_45", "SC_1993_44", "SC_1995_46"],
+      "expected_citations": ["SC_1994_45"],
+      "reference_answer": "Sample Case 45 v. State was decided in 1994."
+    },
+    {
+      "query": "Show me cases involving Judge 1 and Judge 2",
+      "relevant_docs": ["SC_1950_1", "SC_1951_2", "SC_1952_3", "SC_1953_4", "SC_1954_5"],
+      "expected_citations": ["SC_1950_1", "SC_1954_5"],
+      "reference_answer": "Judge 1 and Judge 2 presided over multiple cases including Sample Case 1 through Sample Case 5."
+    },
+    {
+      "query": "What happened in 1965?",
+      "relevant_docs": ["SC_1965_16"],
+      "expected_citations": ["SC_1965_16"],
+      "reference_answer": "Sample Case 16 v. State was decided in 1965."
+    },
+    {
+      "query": "Find case number 30",
+      "relevant_docs": ["SC_1979_30", "SC_1978_29", "SC_1980_31"],
+      "expected_citations": ["SC_1979_30"],
+      "reference_answer": "Case number 30 is SC_1979_30, Sample Case 30 v. State from 1979."
+    },
+    {
+      "query": "What are the details of Sample Case 50?",
+      "relevant_docs": ["SC_1999_50", "SC_1998_49", "SC_2000_51"],
+      "expected_citations": ["SC_1999_50"],
+      "reference_answer": "Sample Case 50 v. State was decided in 1999."
+    },
+    {
+      "query": "Show me precedents from 2010",
+      "relevant_docs": ["SC_2010_61"],
+      "expected_citations": ["SC_2010_61"],
+      "reference_answer": "Sample Case 61 v. State was decided in 2010."
+    },
+    {
+      "query": "What is the legal standing of case 35?",
+      "relevant_docs": ["SC_1984_35", "SC_1983_34", "SC_1985_36"],
+      "expected_citations": ["SC_1984_35"],
+      "reference_answer": "SC_1984_35 is Sample Case 35 v. State from 1984."
+    },
+    {
+      "query": "Find all cases from the 2020s",
+      "relevant_docs": ["SC_2020_71", "SC_2021_72", "SC_2022_73", "SC_2023_74", "SC_2024_75", "SC_2025_76", "SC_2026_77", "SC_2027_78", "SC_2028_79", "SC_2029_80"],
+      "expected_citations": ["SC_2020_71", "SC_2029_80"],
+      "reference_answer": "Cases from the 2020s include Sample Case 71 through Sample Case 80."
+    },
+    {
+      "query": "What was the judgment in 1972?",
+      "relevant_docs": ["SC_1972_23"],
+      "expected_citations": ["SC_1972_23"],
+      "reference_answer": "Sample Case 23 v. State was decided in 1972."
+    },
+    {
+      "query": "Explain case SC_2005_56",
+      "relevant_docs": ["SC_2005_56", "SC_2004_55", "SC_2006_57"],
+      "expected_citations": ["SC_2005_56"],
+      "reference_answer": "SC_2005_56 is Sample Case 56 v. State decided in 2005."
+    },
+    {
+      "query": "Show me cases between 2015 and 2020",
+      "relevant_docs": ["SC_2015_66", "SC_2016_67", "SC_2017_68", "SC_2018_69", "SC_2019_70", "SC_2020_71"],
+      "expected_citations": ["SC_2015_66", "SC_2020_71"],
+      "reference_answer": "Cases between 2015-2020 include Sample Case 66 through Sample Case 71."
+    },
+    {
+      "query": "What is the precedent for case 8?",
+      "relevant_docs": ["SC_1957_8", "SC_1956_7", "SC_1958_9"],
+      "expected_citations": ["SC_1957_8"],
+      "reference_answer": "Case 8 is SC_1957_8, Sample Case 8 v. State from 1957."
+    },
+    {
+      "query": "Find judgments involving Article 1 in the 1950s",
+      "relevant_docs": ["SC_1950_1", "SC_1951_2", "SC_1952_3", "SC_1953_4", "SC_1954_5", "SC_1955_6", "SC_1956_7", "SC_1957_8", "SC_1958_9", "SC_1959_10"],
+      "expected_citations": ["SC_1950_1", "SC_1959_10"],
+      "reference_answer": "Cases in the 1950s involving Article 1 include Sample Case 1 through Sample Case 10."
+    },
+    {
+      "query": "What happened in Sample Case 40?",
+      "relevant_docs": ["SC_1989_40", "SC_1988_39", "SC_1990_41"],
+      "expected_citations": ["SC_1989_40"],
+      "reference_answer": "Sample Case 40 v. State was decided in 1989."
+    },
+    {
+      "query": "Show me the most recent cases in the dataset",
+      "relevant_docs": ["SC_2045_96", "SC_2046_97", "SC_2047_98", "SC_2048_99", "SC_2049_100"],
+      "expected_citations": ["SC_2049_100", "SC_2045_96"],
+      "reference_answer": "The most recent cases include Sample Case 96 through Sample Case 100 from 2045-2049."
+    }
+  ]
+}

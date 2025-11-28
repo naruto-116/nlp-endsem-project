@@ -1,0 +1,45 @@
+{
+  "queries": [
+    {
+      "query": "What is sample judgment text for case 1?",
+      "relevant_docs": [
+        "SC_1950_1",
+        "SC_1951_2",
+        "SC_1952_3"
+      ],
+      "expected_citations": [
+        "SC_1950_1",
+        "SC_1951_2"
+      ],
+      "reference_answer": "This is sample judgment text for case 1. This is sample judgment text for case 1."
+    },
+    {
+      "query": "Tell me about cases from 1995 to 2000",
+      "relevant_docs": [
+        "SC_1995_46",
+        "SC_1996_47",
+        "SC_1997_48",
+        "SC_1998_49",
+        "SC_1999_50",
+        "SC_2000_51"
+      ],
+      "expected_citations": [
+        "SC_1995_46",
+        "SC_2000_51"
+      ],
+      "reference_answer": "Sample judgment text for cases 46 through 51 covering years 1995-2000."
+    },
+    {
+      "query": "What are the details of case 25?",
+      "relevant_docs": [
+        "SC_1974_25",
+        "SC_1973_24",
+        "SC_1975_26"
+      ],
+      "expected_citations": [
+        "SC_1974_25"
+      ],
+      "reference_answer": "This is sample judgment text for case 25 from 1974."
+    }
+  ]
+}
